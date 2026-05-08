@@ -1,4 +1,6 @@
-# <Issue/Discussion number — fill in after creating the issue>
+# 43165
+
+Reproduction for Renovate issue 43165.
 
 First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
 
@@ -44,4 +46,4 @@ Renovate should complete the job successfully:
 
 ## Link to the Renovate issue or Discussion
 
-<!-- Add your GitHub issue/discussion link here after filing it -->
+https://github.com/renovatebot/renovate/discussions/43165
