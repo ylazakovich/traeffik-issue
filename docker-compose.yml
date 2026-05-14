@@ -1,6 +1,6 @@
 services:
   traefik:
-    image: traefik:v2.11.45@sha256:4c27a775e8820b7de04a3624b196cf1c5f6b935cfe322df4be13eb24a5179962
+    image: traefik:v3.7.1@sha256:6b9cbca6fac42ab0075f5437d8dc1685cfd188626d8d515839ea94f8b6271c42
     command:
       - --providers.docker=true
       - --entrypoints.web.address=:8080
